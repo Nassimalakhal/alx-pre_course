@@ -1,1 +1,2 @@
-README.md updated
+*Emphasize* _emphasize_
+**Strong** __Strong__
